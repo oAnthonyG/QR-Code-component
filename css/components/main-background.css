@@ -1,0 +1,10 @@
+
+.main-background{
+    height: auto;
+    background-color: hsl(212, 45%, 89%);
+    min-width: 375px;
+    min-height: 100vh;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }

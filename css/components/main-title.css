@@ -1,0 +1,19 @@
+.main-title{
+    font-family: "Outfit", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main-title.-subtitle{
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: hsl(220, 15%, 55%);
+    
+}
