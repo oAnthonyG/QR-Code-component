@@ -1,7 +1,6 @@
 #container-card{
     display: flex;
-    justify-content: center;
-    padding-top: 80px;
+    justify-content: center; 
 
 }
 
@@ -16,6 +15,3 @@
     background-color: white;
     border-radius: 5%;
 }
-
-
-
