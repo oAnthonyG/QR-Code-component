@@ -58,6 +58,6 @@ Still not very comfortable because I have little knowledge but really enjoying t
 ## Acknowledgments
 
 I wanted to thank Marco Bruno who has a programming youtube channel that helped me and taught me about HTML and CSS and I am very grateful to him for having super amazing classes and with them he motivated me to go deep into this programming environment.
-I also thank myself for not giving up even on difficult days and let's get on with them and be an incredible professional
+I also thank myself for not giving up even on difficult days and let's get on with them and be an incredible professional.
 
 
